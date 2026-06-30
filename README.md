@@ -1,8 +1,5 @@
 # AI-Prompt-Library
 AI Prompt Library is a secure Spring Boot web application that enables users to create, organize, search, and manage AI prompts efficiently. It features user authentication, dashboard analytics, favorites, and PDF/Excel export using Spring Security, PostgreSQL, JPA, and Thymeleaf.
-# AI Prompt Library
-
-A secure web application for organizing, managing, and retrieving AI prompts efficiently. Built with Spring Boot, the application helps users maintain a personal prompt repository with advanced search, categorization, favorites, and export capabilities.
 
 ---
 
